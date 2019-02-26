@@ -1,4 +1,4 @@
-# Discovery Day - Multi-cloud Orchestration with Terraform - Starter project
+# Discovery Day - Multi-cloud Orchestration with Terraform - Starter project - 
 
 Multi-Cloud Orchestration with Terraform
 
